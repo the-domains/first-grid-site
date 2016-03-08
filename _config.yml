@@ -1,6 +1,6 @@
 name: First Grid Site
 favicon: null
-layout_spectrum: 0.43557734531350434
+layout_spectrum: 1
 typography_spectrum: 0.2652533680666238
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.9164821084123105
   lightness: 0.7921837489120662
   saturation: 0.6746579753234982
-  rhythmicContrast: 0.1387023169081658
+  rhythmicContrast: 0.75
 purpose: []
